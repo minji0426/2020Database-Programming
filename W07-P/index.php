@@ -25,6 +25,6 @@
         <input type="submit" value="Search">
     </form>
     </form>
-    <a href="manager_info.php">(6) 부서 담당자 조회</a><br>
+    <a href="manager_info.php">(6) 부서장 정보</a><br>
 </body>
 </html>
