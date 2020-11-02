@@ -1,6 +1,6 @@
 # #비디오게임의 순위를 보여주는 웹패이지#
 
-# 개발 환경 소개
+# 1.개발 환경 소개
     1.Database: MariaDB
     
     2.Backend Language: PHP
@@ -12,7 +12,7 @@
     #MariaDB를 사용한 이유:
     
 
-# 발견한 정보 3개 소개
+# 2.발견한 정보 3개 소개
     1. 글로벌 TOP100 순위 보여주기
         비디오 게임의 순위를 1위부터 100위까지 보여준다. 
 <img src="https://user-images.githubusercontent.com/35446812/97834887-3aef8e80-1d1c-11eb-8b9c-241b1866a2e9.PNG" width="90%"></img>
@@ -28,5 +28,5 @@
         -아무것도 선택하지않으면 전체선택으로 결과를 보여준다.
 <img src="https://user-images.githubusercontent.com/35446812/97835355-4db69300-1d1d-11eb-9735-114a08631beb.PNG" width="90%"></img>
 
-# 동작 화면 소개 영상
+# 3.동작 화면 소개 영상
   https://youtu.be/23pSmvl0Ef8
