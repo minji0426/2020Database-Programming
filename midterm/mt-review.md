@@ -16,6 +16,7 @@
 이 사이트를 이용하면 csv파일을 테이블로 만들기 쉽다.
     
     2.csv파일 import하기 
+    
     #load data local infile '/home/test/vgsales.csv' 
      into table vgsalesDB.vgsales fields terminated by ',';
 
