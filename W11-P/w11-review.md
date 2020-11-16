@@ -30,3 +30,8 @@
 # 5.실행동영상
 
 https://youtu.be/djuGXBr7B-w
+
+!!!!동영상에 자막넣고 편집했더니 화질이 너무 안좋아져서 결과창 사진 첨부합니다!!!
+
+
+<img src="https://user-images.githubusercontent.com/35446812/99262686-9ca61180-2861-11eb-8885-8f98bc481e1a.png"></img>
